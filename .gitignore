@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# if npm, don't ignore :D
+# why does it even exist 
+package-lock.json
